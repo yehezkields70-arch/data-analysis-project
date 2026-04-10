@@ -31,11 +31,8 @@ The dataset consists of four tables:
 5. Store performance analysis  
 6. Customer behavior analysis  
 
-## Key Insights
-(To be filled after analysis)
-
 ## Dashboard
-(To be added from Power BI)
+(Added from Power BI)
 
 ## Limitations
 - No profit data available
